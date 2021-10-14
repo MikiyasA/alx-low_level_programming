@@ -1,0 +1,1 @@
+At the end of this this project,you are expectre to explain about *C  pointers, arrays and strings* **with out the help of Google**
