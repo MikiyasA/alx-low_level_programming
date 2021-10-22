@@ -16,6 +16,9 @@ char *buf;
 if (!filename)
 return (0);
 
+if (filename == NULL)
+return (0);
+
 fd = open(filename, O_RDONLY);
 
 buf = malloc(sizeof(char) * (letters));
