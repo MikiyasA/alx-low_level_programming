@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * get_dmodeint_at_index - returns nth node of a list
+ * get_dnodeint_at_index - returns nth node of a list
  * @head: head of the list
  * @index: index of the node
  * Return: current node
