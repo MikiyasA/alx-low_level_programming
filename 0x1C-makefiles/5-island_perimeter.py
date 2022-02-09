@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-The Method that returns the perimeter of the island described in grid:
+The module that have island_perimeter method returns the perimeter of the island described in grid:
 
 grid is a list of list of integers:
     0 represents a water zone
@@ -8,6 +8,8 @@ grid is a list of list of integers:
     One cell is a square with side length 1
     Grid cells are connected horizontally/vertically (not diagonally).
 """
+
+
 def island_perimeter(grid):
     """ returns the perimeter of the island described in grid
     """
