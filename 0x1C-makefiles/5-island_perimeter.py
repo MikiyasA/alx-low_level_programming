@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
-The module that have island_perimeter method returns the perimeter of the island described in grid:
+The module that have island_perimeter method
+returns the perimeter of the island described in grid:
 
 grid is a list of list of integers:
     0 represents a water zone
